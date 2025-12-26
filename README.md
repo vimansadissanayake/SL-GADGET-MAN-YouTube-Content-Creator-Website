@@ -1,4 +1,5 @@
-SL Gadget Man Website
+SL Gadget Man Website-
+
 A dynamic, database-driven web application designed to showcase tech review videos, featuring a secure admin dashboard and an automated contact management system.
 
 🚀 Key Features
