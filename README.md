@@ -13,7 +13,9 @@ Dynamic UI: Real-time view count formatting (e.g., 1.5K, 2.3M) and responsive gr
 🛠️ Technical Stack
 
 Backend: PHP
-Database: MySQL(managed via phpMyAdmin).
+
+Database: MySQL(managed via phpMyAdmin)
+
 Frontend: HTML5, CSS3
 
 📦 Database Setup (via phpMyAdmin)
