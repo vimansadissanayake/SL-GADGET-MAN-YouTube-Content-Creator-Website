@@ -47,4 +47,5 @@ Choose the provided `slgadgetman_db.sql` file to automatically create the `video
 
 📧 Support
 For inquiries or reporting bugs, please reach out to charuniedu@gmail.com
+
 Check out my SLGM UI/UX Design using Figma Tool  : https://www.figma.com/design/WE2knw7Cjtc72cPI2kSDlC/SLGM-UI-UX-DESIGN?node-id=0-1&t=aTbfBONEaVYofoTH-1
